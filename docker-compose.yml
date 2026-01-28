@@ -3,7 +3,7 @@
 services:
   galeria:
     container_name: galeria
-    image: acargar0112/test:latest
+    image: acargar0112/galeria
     ports:
       - 80:5000
     restart: always
